@@ -19,7 +19,7 @@
             <a class="nav-link" href="#">About</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="#">Contact</a>
+            <a class="nav-link" href="https://adsy.com/">Contact</a>
           </li>
         </ul>
       </div>
