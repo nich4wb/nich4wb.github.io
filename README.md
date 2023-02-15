@@ -24,7 +24,7 @@
         </ul>
       </div>
     </nav>
-
+    
     <main>
       <article>
         <h2>Article Title</h2>
